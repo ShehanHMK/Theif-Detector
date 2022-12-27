@@ -8,7 +8,7 @@
 
 ### _Overview_
 
- - This devices senses and detects any human motion and sends a SMS message to the user notifying him about a motion in his place. Users can place this device anywhere they like,
+ - This device senses and detects any human motion and sends a SMS message to the user notifying him about a motion in his place. Users can place this device anywhere they like,
 most probably in places where thieves can enter to their living/ working areas.
 
  - This Device sends a SMS message to the owners mobile phone and also when a motion is detected, a buzzer will beep continously for the extra safety.
