@@ -3,7 +3,7 @@
 <img src =https://user-images.githubusercontent.com/121402775/209578223-382c2f40-7dce-4519-bbaf-b6d964368fcd.png height="400">
 
 
-### **This is a first year project done by group of students in Electronic and Telecommunication engineering department - _University of Moratuwa_**
+### **This is a first year - semester 2 project done by group of students in Electronic and Telecommunication engineering department - _University of Moratuwa_**
 
 
 ### _Overview_
